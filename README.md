@@ -29,8 +29,7 @@ A minimal but production disciplined template used as the base for subsequent ML
 ---
 
 ### ML Inference Service  
-Status: In progress
-
+Repository: https://github.com/fatemeh-zardbani/ml-training-basics
 Focus:
 
 • Model loading and version management  
